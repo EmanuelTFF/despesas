@@ -38,6 +38,3 @@ O app possui **login seguro**, **cadastro de lan√ßamentos**, **dashboard com gr√
 ```bash
 git clone https://github.com/SEU_USUARIO/finance-app.git
 cd finance-app
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
