@@ -31,6 +31,10 @@ O app possui **login seguro**, **cadastro de lançamentos**, **dashboard com gr�
 - **expo-image-picker** → upload de imagens de comprovantes.
 
 ---
+<img width="350" height="756" alt="image" src="https://github.com/user-attachments/assets/02a8cd9f-3e07-4505-839e-6798c58d9ec8" />
+<img width="361" height="779" alt="image" src="https://github.com/user-attachments/assets/399aaa99-9993-43b1-bea1-bf3fc4d0950f" />
+<img width="347" height="786" alt="image" src="https://github.com/user-attachments/assets/77b37e9e-93f4-46f0-b45c-57b4f933d225" />
+
 
 ## ⚙️ Instalação e Execução
 
@@ -38,3 +42,4 @@ O app possui **login seguro**, **cadastro de lançamentos**, **dashboard com gr�
 ```bash
 git clone https://github.com/SEU_USUARIO/finance-app.git
 cd finance-app
+
